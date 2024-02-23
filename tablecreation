@@ -1,3 +1,13 @@
+td stands for table data.
+Everything between <td> and </td> are the content of the table cell.
+Note: A table cell can contain all sorts of HTML elements: text, images, lists, links, other tables, etc.
+Each table row starts with a <tr> and ends with a </tr> tag.
+Each table row starts with a <tr> and ends with a </tr> tag.
+th stands for table header.
+By default, the text in <th> elements are bold and centered, but you can change that with CSS.
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
