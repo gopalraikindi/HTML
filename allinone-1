@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <title>gopal</title>
+</head>
+
+<body style="color:black; background-color:white;">
+    <p>hi gopal</p>
+    <h3>hi nirbai</h1>
+    <a href="http://127.0.0.1:5500/gopal.html">link</a>
+    <p>hi gp<br>i am from hyderabad</p>
+    <img src="gopal.jpg" alt="my image is not">
+    <p title="I'm a tooltip">This is a paragraph.</p>
+    <h6 style="font-size:10px;">jai hindu</h6>
+    <h1 style="background-color:blue;">This is a heading</h1>
+    <p style="background-color:tomato;">This is a paragraph.</p>
+    <h1 style="text-align:center;">Centered Heading</h1>
+    <b>This text is bold</b>
+    <i>This text is italic</i>
+    <strong>This text is important!</strong>
+    <em>This text is emphasized</em>
+    <small>This is some smaller text.</small>
+    <p>Do not forget to buy <mark>milk</mark> today.</p>
+    <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
+    <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+    <p>This is an inline span <span style="border: 1px solid black">Hello World</span> element inside a paragraph.</p>
+
+    <!-- Write your comments here -->
+    <!-- <p>This is another paragraph </p> -->
+    <p>This <!-- great text --> is a paragraph.</p>
+    <!--Inline CSS-->
+    <h1 style="color:blue;">A Blue Heading</h1>
+    <!--Internal CSS-->
+    <head>
+        <style>
+        body {background-color: powderblue;}
+        h1   {color: blue;}
+        p    {color: red;}
+        </style>
+        </head>
+        <body>
+        
+        <h1>This is a heading</h1>
+        <p>This is a paragraph.</p>
+    <!--External CSS-->
+    <!--The external style sheet can be written in any text editor. The file must not contain any HTML code, and must be saved with a .css extension.
+
+Here is what the "styles.css" file looks like:
+
+
+    body {
+        background-color: powderblue;
+      }
+      h1 {
+        color: blue;
+      }
+      p {
+        color: red;
+      }-->
+
+      <!--The <div> Element-->
+
+       <!-- The <div> element is often used as a container for other HTML elements.
+        
+        The <div> element has no required attributes, but style, class and id are common.
+        
+        When used together with CSS, the <div> element can be used to style blocks of content:-->
+            <div style="background-color:black;color:white;padding:20px;">
+                <h2>London</h2>
+              </div>
+             <!-- ---------------------------------------------
+              -------------------------------------------------   -->
+             <!--The <span> Element-->
+                The <span> element is an inline container used to mark up a part of a text, or a part of a document.
+                
+                The <span> element has no required attributes, but style, class and id are common.
+                
+                When used together with CSS, the <span> element can be used to style parts of the text:
+         <p>My mother has <span style="color:blue;font-weight:bold;">blue</span> eyes and my father has  eyes.</p>
+         
+         
+         The <div> element is a block-level and is often used as a container for other HTML elements
+            The <span> element is an inline container used to mark up a part of a text, or a part of a document
+
+      <style>
+        h1 {
+          color: blue;
+          font-family: verdana;
+          font-size: 300%;
+        }
+        p {
+          color: red;
+          font-family: courier;
+          font-size: 160%;
+        }
+        </style>
+        
+        <h1>This is a heading</h1>
+        <p>This is a paragraph.</p>
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+The <div> element is by default a block element, meaning that it takes all available width, and comes with line breaks before and after.
+    Lorem Ipsum <div>I am a div</div> dolor sit amet.
+
+    Lorem Ipsum
+    I am a div
+    dolor sit amet.
+    ---------------------------------------------
+    <html>
+<style>
+div {
+  width: 400px;
+  margin: auto;
+  background-color: #FFF4A3;
+}
+</style>
+<body>
+
+<h1>Center align a DIV element</h1>
+
+<div>
+  <h2>London</h2>
+  <p>London is the capital city of England.</p>
+  <p>London has over 13 million inhabitants.</p>
+</div>
+
+</body>
+</html>
+---------------------------------------------------------------------
+
+
