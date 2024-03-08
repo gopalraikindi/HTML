@@ -1,0 +1,94 @@
+<body>
+<head>
+<form enctype="multipart/form-data" >
+   
+   
+ <div>
+    <label >Name</label>
+    <input type="text" value="user" required>
+</div>
+
+<div>
+    <label>Password</label>
+    <input type="password">
+</div>
+
+<div>
+    <label for="age">Age</label>
+    <input type="number" name="age" id="age" min="10">
+
+</div>
+
+<div>
+    <label for="date">Birthday</label>
+    <input type="date" name="date" id="date" >
+
+</div>
+
+<div>
+    FAVORITE FOOD
+    <div>
+<lable for="banana">Banana</lable>
+<input type="checkbox" name="banana" id="banana">
+    </div>
+
+    <div>
+        GENDER
+        <div>
+            <label for="male">Male</label>
+            <input type="radio" name="gender" id="male" value="male">
+        </div>
+
+        <div>
+            <label for="female">Female</label>
+            <input type="radio" name="gender" id="female" value="female">
+        </div>
+
+    </div>
+
+    <div>
+        <label for="eyecolor">Eyecolor</label>
+        <select name="eyecolor" id="eyecolor" >
+            <option value="Green" >Green</option>
+            <option value="Red" >REd</option>
+ </select>
+</div>
+
+<div>
+    <label for="file">File</label>
+    <input type="file" name="file" id="file">
+    </div>
+
+    <div>
+        <label for="phone">Phone</label>
+        <input type="tel" name="phone" id="phone">
+ </div>
+
+ <div>
+    <label for="url">URL</label>
+    <input type="url" name="url" id="url">
+</div>
+
+<div>
+    <lable for="color">Color</lable>
+    <input type="color" name="color" id="color">
+</div>
+
+
+</div>
+
+<div>
+<label for="bio">Bio</label>
+<textarea  name="bio"   id="bio"></textarea>
+</div>
+
+
+
+</div>
+
+ <button>Submit</button>
+ <button>Reset</button>
+
+</form>
+</body>
+</head>
